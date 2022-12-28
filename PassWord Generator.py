@@ -49,11 +49,6 @@ spchars="~!@#$%^&*()_-+=-/{}[]\|,.;:"
 #Welcome message for the user
 print("*=======================*")
 print("|| Password Generator  ||")
-print("||*********************||")
-print("||    Made by:         ||")
-print("||      Md Faizan      ||")
-print("||      Rohit Kumar    ||")
-print("||      Sainath Reddy  ||")
 print("*=======================*")
 print("")
 
